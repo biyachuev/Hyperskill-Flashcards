@@ -1,0 +1,55 @@
+Activity log
+hardest card
+There are no cards with errors.
+hardest card
+There are no cards with errors.
+How many times to ask?
+1
+Print the definition of "a"
+a
+Wrong. The right answer is "aa"
+hardest card
+The hardest card is "a". You have 1 errors answering it.
+hardest card
+The hardest card is "a". You have 1 errors answering it.
+How many times to ask?
+2
+Print the definition of "b"
+b
+Wrong. The right answer is "bb"
+Print the definition of "a"
+aa
+Correct!
+hardest card
+The hardest card are "a", "b". You have 1 errors answering them.
+How many times to ask?
+1
+Print the definition of "c"
+d
+Wrong. The right answer is "cc"
+hardest card
+The hardest card are "a", "b", "c". You have 1 errors answering them.
+How many times to ask?
+1
+Print the definition of "a"
+b
+Wrong. The right answer is "aa"
+hardest card
+The hardest card is "a". You have 2 errors answering it.
+How many times to ask?
+1
+Print the definition of "a"
+aa
+Correct!
+How many times to ask?
+1
+Print the definition of "a"
+aa
+Correct!
+How many times to ask?
+1
+Print the definition of "c"
+a
+Wrong. The right answer is "cc"
+hardest card
+The hardest card are "a", "c". You have 2 errors answering them.

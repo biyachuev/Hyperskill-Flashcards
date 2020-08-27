@@ -1,7 +1,7 @@
 Cards and definitions
 a
 aa
+0
 b
 bb
-c
-cc
+0

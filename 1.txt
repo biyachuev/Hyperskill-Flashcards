@@ -1,0 +1,10 @@
+Cards and definitions
+a
+aa
+2
+b
+bb
+1
+c
+cc
+2
